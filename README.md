@@ -6,6 +6,7 @@
 |---|------|--------|
 | 1 | Семинар 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem1) |
 | 2 | Семинар 2| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem2) |
+| 3 | Семинар 3| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem3) |
 
 ---
 
