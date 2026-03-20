@@ -1,5 +1,6 @@
 ## С#
 
+
 ### sem
 
 | № | Тема | Ссылка |
@@ -10,19 +11,19 @@
 
 ---
 
+### lecture
+
+| part | Тема | Ссылка |
+|------|------|--------|
+| 1-5  | Основы языка| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-parts1-5) |
+|   6  | Работа с файлами| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part6) |
+|   7  | Стандартные коллекции| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part7) |
+
+
+---
+
 ### homework
 
 | № | Тема | Ссылка |
 |---|------|--------|
 | 1 | homework 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-homework1) |
-
----
-
-### lectures
-
-| № | Тема | Ссылка |
-|---|------|--------|
-| 1 | Лекция 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1) |
-
-
-
