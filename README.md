@@ -28,3 +28,4 @@
 | № | Тема | Ссылка |
 |---|------|--------|
 | 1 | homework 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-homework1) |
+| 2 | homework 2| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-homework2) |
