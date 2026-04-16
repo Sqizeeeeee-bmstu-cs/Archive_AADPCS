@@ -21,7 +21,7 @@
 | 1-5  | Основы языка| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-parts1-5) |
 |   6  | Работа с файлами| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part6) |
 |   7  | Стандартные коллекции| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part7) |
-| 8-9  | Классы + наследование + ислючения | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part8) |
+| 8-10  | Классы + ислючения + интерфейсы + структуры | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part8) |
 
 
 
